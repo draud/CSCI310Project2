@@ -1,14 +1,24 @@
 Erica Draud:
--
+- Set up documentation and tasks.
+- Clone the code on my desktop, getting a button added on results page.
+- Navigating new code.
 
 Sophia Hu:
--
+- Looked at the codebase we have decided to use. Assigned tasks.
+- Going to implement dropdown button to filter radius for restaurant results, work on CSS
+- Grabbing results from back-end might be an issue.
 
 Mackenzie McClung:
-- 
+- Assigned tasks
+- Learn status of the code. Cucumber testing step definitions for database & clone the code onto my computer
+- Installing Maven & Cucumber to my computer
 
 Luke St. Regis:
--
+- Uploaded the code.
+- Work on getting unit testing for database done.
+- Learning JUnit
 
 David Tupper:
--
+- conducted preliminary research for requirement 1 (securing and protecting confidentiality of user's ImHungry data), familiarized with Luke's implementation from Project 1
+- further research into various security protocols and implementations in web applications
+- don't know what exactly is wanted from stakeholders from a security perspective
