@@ -1,0 +1,19 @@
+1.Web application must be secure and protect confidentiality of a user’s ImHungry data
+encode/decode json when passing between front-end and back-end 
+use secure database? 
+
+2. Maintain information beyond just a single session
+Create a database
+Create login in option/page
+Create sign up option
+
+3. Allow for pagination of results returned by the search.
+Create a next button on the page
+User ability to specify number of results per page
+
+5. User interfaces must look modern and be attractive
+Redesign CSS files
+
+8. Set the radius of the restaurant search
+Create a drop down menu (of 10mi, 20 mi, etc. ) on result page to filter restaurant results
+Filter backend results (JSON object)
