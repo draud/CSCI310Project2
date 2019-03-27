@@ -1,0 +1,24 @@
+Erica Draud:
+- Update documentation and tasks. Cloned the code on my desktop.
+- Get the code running on IntelliJ. Set up tests to get a next button added on results page. Update documentation and tasks.
+- Navigating new code and tomcat.
+
+Sophia Hu:
+- Looked through code, and planned implementing button. Installed IntelliJ.
+- Find tomcat to run the code properly, implement the button.
+- Tomcat.
+
+Mackenzie McClung:
+- Cloned code, downloaded IntelliJ, wrote login feature, started Cucumber tests, writing config tests
+- Commit tests and run them
+- IntelliJ
+
+Luke St. Regis:
+- Familiarized with JUnit and began planning tests to write
+- Finish planning and begin writing the tests
+- choosing design of database
+
+David Tupper:
+- Found hashing algorithm for passwords, set up environment, researched securing java web app
+- Junit tests for the library so that it works correctly
+- Login functionality must be implemented to test it
