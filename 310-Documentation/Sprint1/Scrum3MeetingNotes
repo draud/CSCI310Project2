@@ -1,0 +1,22 @@
+Erica Draud:
+- Got code running. Pair programmed password hashing with David. Researched Cucumber to create test for pagination. Update documentation and tasks.
+- Test for pagination and start implementation. Update documentation and tasks.
+- Finding time for pair programming.
+
+Sophia Hu:
+- Code running. Simple cucumber scenario for dropdown menu. Created mockup for new UI.
+- Collaborate with team for UI. Implement UI. Dropdown menu testing and implementation.
+- Figure out how resulkts are being sent to the front-end. Unsure about dropdown menu.
+
+Mackenzie McClung:
+- Figured out how to design the database - mockup with fake data.
+- Figure out Cucumber on IntelliJ. Start implementing database.
+- Learning IntelliJ.
+
+Luke St. Regis:
+- waiting for response
+
+David Tupper:
+- Wrote the test for password hashing.
+- Implement password hashing.
+- Verifying what we're storing isn't the same as plain text password - need to have database set up.
