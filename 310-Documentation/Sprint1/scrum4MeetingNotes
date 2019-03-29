@@ -1,0 +1,24 @@
+Erica Draud:
+- Update documentation and tasks. Started implementing and fixing test code.
+- Go to office hours to get help fully implementing with testing (cucumber jave step definition confusion).
+- Cucumber.
+
+Sophia Hu:
+- Started on the search page UI and implemented the select radius drop-down
+- Still need to connect results to the backend.
+- Figure out backend test cases.
+
+Mackenzie McClung:
+- Made sql tables for user restaurant recipe and lists.
+- Finish jdbc driver file.
+- Ruby cucumber SDK.
+
+Luke St. Regis:
+- Made database class constructor and set up mysql server on my computer.
+- Implement rest of database class methods.
+- Finding time to work
+
+David Tupper:
+- Reviewed code from password hashing function.
+- Help teammates who need help with their tasks
+- None
