@@ -1,0 +1,24 @@
+Erica Draud:
+- Pair program with Sophia and give her what she worked on so she can continue it and I will focus on documentation. Update documentation and tasks. 
+- Update documentation and tasks.
+- Nothing.
+
+Sophia Hu:
+- Added login page to mockup so modern ui requirements is done
+- Pagination, filter radius from backend
+- Figuring out how results are being sent to front end, time and wifi might be spotty.
+
+Mackenzie McClung:
+- Paired programmed with Luke. Implemented the getLists functions and started the updateList function.
+- Pair program with David for the Login Servlet & finish the JDBC driver.
+- Cucumber on IntelliJ
+
+Luke St. Regis:
+- Pair programmed with mackenzie, worked on the getlist and updatelist methods in the database class. Also tweaked database tests.
+- Finish implementing the database class
+- None
+
+David Tupper:
+- Began learning junit in Intellij
+- Pair program with Mackenzie
+- None
