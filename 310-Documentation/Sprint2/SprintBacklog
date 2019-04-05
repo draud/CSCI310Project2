@@ -7,7 +7,7 @@
 5. Data Persistence
   - Search history must persist across sessions
   - Grocery information must persist across sessions
-7. Reorder any of the three predetermined lists. 
-8. Finalize Radius
+6. Reorder any of the three predetermined lists. 
+7. Finalize Radius
   - Radius mileage must be an input
   - Radius must have descriptive hover text
