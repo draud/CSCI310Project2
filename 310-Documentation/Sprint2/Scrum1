@@ -1,0 +1,29 @@
+Question Legend: 
+  1. What did you accomplish before SCRUM 
+  2. What will you accomplish after this SCRUM? 
+  3. What barriers do you envision facing?
+  
+Erica Draud
+  1. Submitted regrade request, updated documentation, and wrote sprint review and retrospective sections.
+  2. Continue to update documentation, break down the tasks further, and work on simple design.
+  3. None
+  
+Sophia Hu
+  1. Finished the UI for the search page except for the log in button which is not ideal and changed radius to an input box.
+  2. Finish the front end after writing the Cucumber tests.
+  3. Hard to schedule pair programming and research pagination techniques.
+  
+Mackenzie McClung
+  1. Pair programmed with Luke (Cucumber tests for verifying user is logged in on all pages)
+  2. Tests for grocery list persistence.
+  3. Cheer activities (scheduling).
+  
+Luke St. Regis
+  1. Pair programmed with Mackenzie (Cucumber tests for verifying user is logged in on all pages)
+  2. Junit to verify user is logged in on all pages and implementation.
+  3. Pair programming
+  
+David Tupper
+  1. Preliminary research about Travis integration.
+  2. Travis integration, SSL/HTTPs research
+  3. Unfamiliarity with Travis, coordinating schedules for pair programming.
