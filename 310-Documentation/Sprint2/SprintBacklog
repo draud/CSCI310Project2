@@ -1,0 +1,13 @@
+1. Security
+  - SSL HTTPS Security
+  - Access to any page protected by login
+2. Allow for pagination of results returned by the search. 
+3. View results of prior searches by clicking on a quick access list that shows prior search terms. 
+4. Implement mockup
+5. Data Persistence
+  - Search history must persist across sessions
+  - Grocery information must persist across sessions
+7. Reorder any of the three predetermined lists. 
+8. Finalize Radius
+  - Radius mileage must be an input
+  - Radius must have descriptive hover text
