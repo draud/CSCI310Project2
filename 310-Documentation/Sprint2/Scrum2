@@ -1,0 +1,29 @@
+Question Legend: 
+  1. What did you accomplish before SCRUM 
+  2. What will you accomplish after this SCRUM? 
+  3. What barriers do you envision facing?
+  
+Erica Draud
+  1. Continue to update documentation, started pair programming with Sophia.
+  2. Continue to update documentation, break down the tasks further, and work on simple design. Pair program with David.
+  3. None
+  
+Sophia Hu
+  1. Cucumber test for front-end (with Erica).
+  2. Finish tests.
+  3. Travis is not working and tests only work on Mackenzie's computer. Hard to verify tests. Time.
+  
+Mackenzie McClung
+  1. 
+  2. 
+  3. 
+  
+Luke St. Regis
+  1. Implemented HTTPS and looked at Travis testing.
+  2. Travis implementation with Luke. Set HTTPS on Mackenzie's machine. List management sorting.
+  3. Lacks repo ownership.
+  
+David Tupper
+  1. Preliminary research about Travis integration.
+  2. Travis integration, SSL/HTTPs research
+  3. Unfamiliarity with Travis, coordinating schedules for pair programming.
