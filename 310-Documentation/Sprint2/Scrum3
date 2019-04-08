@@ -1,0 +1,29 @@
+Question Legend: 
+  1. What did you accomplish before SCRUM 
+  2. What will you accomplish after this SCRUM? 
+  3. What barriers do you envision facing?
+  
+Erica Draud
+  1. Pair programmed with David. Continued documentation.
+  2. Continue to update documentation, break down the tasks further, and work on simple design.
+  3. None
+  
+Sophia Hu
+  1. Created headers for all the HTML pages, and wrote radius tests.
+  2. Finish UI and look into pagination more.
+  3. Figuring out how to redirect.
+  
+Mackenzie McClung
+  1. Pair programmed with Luke, completed tests and implemented grocery list database.
+  2. Servlet side of grocery lists.
+  3. None.
+  
+Luke St. Regis
+  1. Pair programmed with Mackenzie, completed tests and implemented grocery list database. Started on servlet.
+  2. Servlet side of grocery lists with Mackenzie.
+  3. Other classes.
+  
+David Tupper
+  1. Reordering (testing and implementation).
+  2. Travis implementation with Luke. Set HTTPS on Mackenzie's machine.
+  3. None.
