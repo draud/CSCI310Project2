@@ -1,0 +1,29 @@
+Question Legend: 
+  1. What did you accomplish before SCRUM 
+  2. What will you accomplish after this SCRUM? 
+  3. What barriers do you envision facing?
+  
+Erica Draud
+  1. Pair programmed with Sophia. Continued documentation.
+  2. Continue to update documentation, finish simple design.
+  3. None.
+  
+Sophia Hu
+  1. Fixed radius. Front end for four of the pages. One of the refactors.
+  2. Complete recipe page, list page, and results page front-end. Previous search button.
+  3. Flex box is not reflecting changes.
+  
+Mackenzie McClung
+  1. Pair programmed with Luke, finished groceries through front-end, ensured database -side tests are running.
+  2. Servlet side of previous search.
+  3. Need front-end previous search button.
+  
+Luke St. Regis
+  1. Pair programmed with Mackenzie, finished implementing grocery lists. Fixed search radius. Github tidying.
+  2. Working on tests and implementation for previous search. 
+  3. Working with front-end.
+  
+David Tupper
+  1. Junit (backend) testing integration with Travis-CI configurations
+  2. Change list sorting code to account for Recipes AND Restaurants. Cucumber/front-end Travis-CI integration.
+  3. Finding time to pair program.
