@@ -1,0 +1,29 @@
+Question Legend: 
+  1. What did you accomplish before SCRUM 
+  2. What will you accomplish after this SCRUM? 
+  3. What barriers do you envision facing?
+  
+Erica Draud
+  1. Pair programmed with Sophia. Continued documentation. Created metrics for simple design and set up the paths for the classes.
+  2. Finish documentation.
+  3. None.
+  
+Sophia Hu
+  1. Pair programmed with Erica. Pair programmed with Mackenzie (Cucumber tests). Front-end is done.
+  2. Make button orange for previous search results. Implementing pahination (explore jquery).
+  3. Learning jquery.
+  
+Mackenzie McClung
+  1. Pair programmed with Sophia for front-end Cucumber, pair programmed with Luke for previous searches testing for the servlet.
+  2. Implement previous searches on the searchservlet.
+  3. Time.
+  
+Luke St. Regis
+  1. Pair programmed with mackenzie, worked on tests and partial implementation of previous searches list.
+  2. finish previous searches, refactor some older code. 
+  3. Time.
+  
+David Tupper
+  1. Change list sorting code to account for Recipes and Restaurants. Fixed the failing SQL test cases and password authentication. Reconfigured list management stuff.
+  2. Cucumber/front-end Travis-CI integration.
+  3. None.
