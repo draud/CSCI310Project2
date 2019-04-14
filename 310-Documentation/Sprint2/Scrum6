@@ -1,0 +1,29 @@
+Question Legend: 
+  1. What did you accomplish before SCRUM 
+  2. What will you accomplish after this SCRUM? 
+  3. What barriers do you envision facing?
+  
+Erica Draud
+  1. Created metrics for simple design and set up the paths for the classes.
+  2. Finish documentation.
+  3. None.
+  
+Sophia Hu
+  1. Did the javascript refactoring for result page, did the login servlet error message for when an account is created, added buttons on result page for sort by rating and sort by alphabet, put pagination buttons.
+  2. Position rating and alphabet buttons on page finish pagination.
+  3. Time.
+  
+Mackenzie McClung
+  1. Pair programmed with david: got https on my computer; pair programmed with luke & finished previous tests.
+  2. Refactor servlet & get 100% coverage with the servlets & cucumber 100%.
+  3. Web api key charging me.
+  
+Luke St. Regis
+  1. Polished up previous searches and refactored dropdown code.
+  2. Get test coverage to 100% and fix travis sql file. 
+  3. None.
+  
+David Tupper
+  1. 100% code coverage for `ListSort.java`, cucumber travis testing.
+  2. Integrate sorting class into actual application
+  3. Pair programming.
