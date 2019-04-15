@@ -1,0 +1,38 @@
+Mockup
+
+Input box fo the radius feature instead of drop down
+Hover: “radius of search”
+Make restaurants section on Salad page, make each of the results their own tab
+Print page, dropdown, back to be orange
+Same for buttons on cake page
+Background color for list name or line around for list name items
+
+LogIn Function
+Login appears to create new user — make this error more obvious that login isn’t working (pop-up window?)
+Must have https in url
+Access to any page must be protected by login - cannot just go to a url for a page
+Password hash is good
+FORM SUBMISSION:
+Error from backend isn’t being passed to the right place to give an error at the frontend
+If they try to login with the wrong password, display error message in red
+
+Save Sessions are great
+Hover text for number of items to show on page is great
+Hover text for the radius as well
+
+Radius
+Integer for radius is fine
+Must be in miles, which we did
+No requirements as to how to indicate miles
+
+Search history must persist across sessions
+Groceries information must also persist
+
+List Page Feature
+Search Page
+If no results, show an error message below the restaurant portion ONLY
+Error message should be in red
+
+Full points in filtering based on radius, maintaining three lists, password hashing
+
+Need error messages, don’t have tests to ensure every page is accessible only after login, change radius input, SSL https, prior search lists and grocery list → add, error message for small radius and there is nothing there (O results)
