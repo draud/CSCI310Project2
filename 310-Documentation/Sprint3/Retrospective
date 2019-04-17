@@ -1,0 +1,13 @@
+Report
+We have Travis working now, so we will get more points back for documentation. There was some refactoring miscommunication,
+so we will make sure to get a regrade for that. I also did not see that we had to commit this document, so I am doing that now.
+I also forgot to change the report number, and have already made that change so that we won't get points off. We are really
+happy with how we did. 
+
+Features 
+We are really happy with how we've done with the features as well. We have some testing that we have to add to our
+existing implementation, and we have to change some of the features that we started last sprint. The list re-ordering
+must be drag and drop or using buttons to move it. The UI only needs a few small changes to give it a sleeker feeling.
+The pagination needs to look more like Google. Prior search results must have mini collages and titles from all the previous
+searches (with a scroll bar if it's too long) on the results page of the current search. We envision that this will not be too
+easy, but we know we can do it.
